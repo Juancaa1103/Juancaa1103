@@ -1,7 +1,7 @@
 # Hola, soy Juan Carlos 👋
 
 **Desarrollador DAM · Ciberseguridad · Datos y automatización**
-Azuaga (Badajoz, España) · Técnico Superior en DAM · Máster en Ciberseguridad
+Azuaga (Badajoz, España) · Formación en DAM (Grado Superior) · Máster en Ciberseguridad (UCAM) en curso
 
 Desarrollo herramientas en producción con Python, Power BI y la API de Claude, con asistencia de IA,
 y he creado una app Android nativa en Kotlin. Me gusta romper cosas para entender cómo protegerlas,

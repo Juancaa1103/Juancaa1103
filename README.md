@@ -12,7 +12,7 @@ siempre de forma ética. Busco mi primer puesto en desarrollo, ciberseguridad o 
 Administrativo y Soporte IT en **Autocares J. Muñoz SL** (desde julio de 2026):
 
 - **Panel Muñoz**: herramienta interna en Python, hecha con asistencia de IA (Claude Code), que digitaliza
-  la operación diaria (tickets, gasoil y cuadro de mando en Power BI). Unas 38.000 líneas y 460 tests
+  la operación diaria (tickets, gasoil y cuadro de mando en Power BI), con 460 tests automatizados
   (pytest). *El código es privado de la empresa.*
 - Automatizaciones: facturas de taller en PDF → Excel por vehículo (ETL), cotejo de más de 500 servicios
   al mes y clasificación del correo de la empresa con la API de Claude.
